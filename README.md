@@ -37,15 +37,15 @@ The pipeline is designed to:
 ## System Setup
 1. Clone the repository.
    ```bash
-    git clone https://github.com/airscholar/RedditDataEngineering.git
+    https://github.com/rassel25/Reddit-ETL-Pipeline-Using-AWS.git
    ```
 2. Create a virtual environment.
    ```bash
-    python3 -m venv venv
+    python -m venv venv
    ```
 3. Activate the virtual environment.
    ```bash
-    source venv/bin/activate
+    .venv\Scripts\activate 
    ```
 4. Install the dependencies.
    ```bash
